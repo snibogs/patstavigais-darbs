@@ -2,13 +2,55 @@
     box-sizing: border-box;
 }
 
+.container h1 {
+    color: darkblue;
+}
+
+.container h2 {
+    color: darkgreen;
+}
+
+header {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial;
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
 .container {
     text-align: center;
     background-color: #e7e6e6;
     border-radius: 10px;
+    margin: 30px auto;
 }
 
-.container ul {
-    list-style-type: none;
+.container ol {
+    width: fit-content;
+    margin: auto;
     padding: 12px;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 600px;
+}
+
+footer {
+    padding: 10px;
+    text-align: center;
+    background-color: lightblue;
 }
