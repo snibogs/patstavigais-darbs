@@ -1,0 +1,2 @@
+# patstavigais-darbs
+Patstāvīgais darbs
