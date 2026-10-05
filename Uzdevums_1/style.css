@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightblue;
+    color: black;
+    font-family: Arial;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+h2 {
+    text-align: center;
+    color: darkblue;
+}
+
+.card {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px auto;
+}
+
+img {
+    width: 170px;
+    display: block;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+ul {
+    width: fit-content;
+    margin: auto;
+}
