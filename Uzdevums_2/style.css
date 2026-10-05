@@ -1,0 +1,14 @@
+* {
+    bpox-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+    background-color: #e7e6e6;
+    border-radius: 10px;
+}
+
+.container ul {
+    list-style-type: none;
+    padding: 12px;
+}
