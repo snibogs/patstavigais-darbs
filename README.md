@@ -2,4 +2,4 @@
 Autors: Ralfs Gobiņš
 
 ## Uzdevums
-Pirmais uzdevums no HTML_CSS_papildu_trenina_uzdevumi.docx
+Uzdevumi no HTML_CSS_papildu_trenina_uzdevumi.docx
